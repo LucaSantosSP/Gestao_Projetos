@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(119, 150, 111);
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    color: #ffff;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 0 150px 250px 150px;
+}
+
+h1, h2{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    padding: 0 150px 0 150px;
+    margin: 10px -140px 0 -140px;
+}
+
+p{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 0 150px 250px 150px;
+    margin: 10px -140px -150px -140px;
+}
